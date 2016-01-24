@@ -1,7 +1,11 @@
-/com/
+/com
+/
 bin
+
 .classpath
+
 .project
+
 .settings
 
 
